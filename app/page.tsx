@@ -12,7 +12,7 @@ export default function Home() {
           <div className="flex items-center gap-x-2">
             <Image src="/usa-flag.jpg" alt="logo" width={30} height={30} />
             <div className="h-full font-bold flex items-center pb-1">
-              $851.20 USD
+              $901.20 USD
             </div>
           </div>
           <div className="flex items-center gap-x-2">
